@@ -10,7 +10,6 @@
 - 👓 Love solving problems - can't stop, won't stop.
 - 🐧 All in on Linux since 2018.
 - 👬 Team Human.
-- 🪵 Amateur woodworker
 
 
 ### Tech Stack
